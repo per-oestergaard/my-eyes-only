@@ -1,3 +1,6 @@
 # my-eyes-only
 MyEyesOnly. Backup to local folder or S3.
-x
+
+
+Cannot see onedrive status inside docker :(
+Accessing the file will pull it down
